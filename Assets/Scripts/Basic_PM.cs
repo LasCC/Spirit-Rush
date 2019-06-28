@@ -38,6 +38,11 @@ public class Basic_PM : MonoBehaviour {
         {
             rb.AddForce(0, -verticalForce * Time.deltaTime, 0, ForceMode.VelocityChange);
         }
+	    
+	 	if (Input.GetKey(KeyCode.Space)) 
+        {
+            rb.AddForce(0, 0, verticalForce * Time.deltaTime, ForceMode.VelocityChange);
+        }
 
         if (rb.position.y < -1f)
 		{
