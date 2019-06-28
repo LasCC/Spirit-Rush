@@ -1,7 +1,7 @@
 ## Spirit-Rush - le neuro-virus 👾
 
 Nous sommes en 2177, l'humanité possède dorénavant accès à l'implant cérébral pour améliorer les performances cognitives, 
-l'homme ne fait ne plus qu'un avec la machine .
+l'homme ne fait ne plus qu'un avec la machine.
 Spirit rush est un virus qui va infecter l'implant cérébral altérant la conscience de la personne.
 Sa conscience est enfermée dans un labyrinthe en réalité virtuel privant l'accès au monde réel.
 Le seul moyen de retrouver la conscience est de venir à bout du virus en terminant tous les niveaux.
@@ -39,5 +39,6 @@ The only way to regain consciousness is to overcome the virus by completing all 
 ### The final image of the demo
 ![fin_img](https://i.imgur.com/UHa693s.jpg)
 
-@Credit: reda-maizate, sebWNN, blluetomato.
-🏆 2ème du classement au hackathon 🏆
+@Credit: reda-maizate, sebWNN, blluetomato.\
+\
+🏆 2ème du classement au hackathon 2019 🏆
