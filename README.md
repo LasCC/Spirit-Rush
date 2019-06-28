@@ -1,5 +1,4 @@
-## Spirit-Rush - le neuro virus 👾
-
+## Spirit-Rush - le neuro-virus 👾
 
 Nous sommes en 2177, l'humanité possède dorénavant accès à l'implant cérébral pour améliorer les performances cognitives, 
 l'homme ne fait ne plus qu'un avec la machine .
@@ -11,16 +10,16 @@ Le seul moyen de retrouver la conscience est de venir à bout du virus en termin
 ![menu_img](https://github.com/LasCC/Spirit-Rush/blob/master/Vid%C3%A9os/menu_img)
 
 # Le niveau 01
-![level01_img](https://youtu.be/Qw97IHBsnkM) 
+[![Watch the video](https://i.imgur.com/ojir4p8.png)](https://youtu.be/Qw97IHBsnkM)
 
 # Le niveau 02
-![level02_img](https://youtu.be/MOtsc2PRw6w)
+[![Watch the video](https://i.imgur.com/RPFOqHZ.png)](https://youtu.be/MOtsc2PRw6w)
 
 # L'image finale de la démo
 ![fin img](https://i.imgur.com/UHa693s.jpg)
 
 --------------------------------
-## Spirit-Rush - The neuro virus 👾
+## Spirit-Rush - The neuro-virus 👾
 
 We are in 2177, humanity now has access to the brain implant to improve cognitive performance, 
 man becomes one with the machine.
