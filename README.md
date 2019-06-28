@@ -38,3 +38,5 @@ The only way to regain consciousness is to overcome the virus by completing all 
 
 ### The final image of the demo
 ![fin_img](https://i.imgur.com/UHa693s.jpg)
+
+@Credit: reda-maizate, sebWNN, blluetomato.
