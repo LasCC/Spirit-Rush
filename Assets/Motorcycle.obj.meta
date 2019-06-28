@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: a938625b2195ef94aba30fb8cc848069
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Konsol_Motor
+    100002: Motor_Arka_Jant
+    100004: Motor_Arka_Teker
+    100006: Motor_Govde1
+    100008: Motor_On_Jant
+    100010: Motor_On_Koruma
+    100012: Motor_On_Teker
+    100014: //RootNode
+    400000: Konsol_Motor
+    400002: Motor_Arka_Jant
+    400004: Motor_Arka_Teker
+    400006: Motor_Govde1
+    400008: Motor_On_Jant
+    400010: Motor_On_Koruma
+    400012: Motor_On_Teker
+    400014: //RootNode
+    2100000: Konsol_MotorMat
+    2100002: Motor_Arka_JantMat
+    2100004: Motor_Arka_TekerMat
+    2100006: Motor_Govde1Mat
+    2100008: Motor_On_JantMat
+    2100010: Motor_On_KorumaMat
+    2100012: Motor_On_TekerMat
+    2300000: Konsol_Motor
+    2300002: Motor_Arka_Jant
+    2300004: Motor_Arka_Teker
+    2300006: Motor_Govde1
+    2300008: Motor_On_Jant
+    2300010: Motor_On_Koruma
+    2300012: Motor_On_Teker
+    3300000: Konsol_Motor
+    3300002: Motor_Arka_Jant
+    3300004: Motor_Arka_Teker
+    3300006: Motor_Govde1
+    3300008: Motor_On_Jant
+    3300010: Motor_On_Koruma
+    3300012: Motor_On_Teker
+    4300000: Konsol_Motor
+    4300002: Motor_Arka_Jant
+    4300004: Motor_Arka_Teker
+    4300006: Motor_Govde1
+    4300008: Motor_On_Jant
+    4300010: Motor_On_Koruma
+    4300012: Motor_On_Teker
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: c7e60ce71d6e5ed4fbf021af87a94673
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Banco
+    100002: Calha
+    100004: Calha_Sides
+    100006: Cylinder004
+    100008: engine01_1_transform1
+    100010: engine02_1_transform2
+    100012: Escapamento_Cano
+    100014: Guidon
+    100016: Guidon_engine
+    100018: Guidon_Mao
+    100020: //RootNode
+    100022: Motor
+    100024: Motor_Spikes
+    100026: Pedal
+    100028: Pegador
+    100030: Pneu
+    100032: Tanque
+    100034: Tanque_Entrada
+    400000: Banco
+    400002: Calha
+    400004: Calha_Sides
+    400006: Cylinder004
+    400008: engine01_1_transform1
+    400010: engine02_1_transform2
+    400012: Escapamento_Cano
+    400014: Guidon
+    400016: Guidon_engine
+    400018: Guidon_Mao
+    400020: //RootNode
+    400022: Motor
+    400024: Motor_Spikes
+    400026: Pedal
+    400028: Pegador
+    400030: Pneu
+    400032: Tanque
+    400034: Tanque_Entrada
+    2100000: BancoMat
+    2100002: CalhaMat
+    2100004: Calha_SidesMat
+    2100006: Cylinder004Mat
+    2100008: engine01_1_transform1Mat
+    2100010: engine02_1_transform2Mat
+    2100012: Escapamento_CanoMat
+    2100014: GuidonMat
+    2100016: Guidon_engineMat
+    2100018: Guidon_MaoMat
+    2100020: MotorMat
+    2100022: Motor_SpikesMat
+    2100024: PedalMat
+    2100026: PegadorMat
+    2100028: PneuMat
+    2100030: TanqueMat
+    2100032: Tanque_EntradaMat
+    2300000: Banco
+    2300002: Calha
+    2300004: Calha_Sides
+    2300006: Cylinder004
+    2300008: engine01_1_transform1
+    2300010: engine02_1_transform2
+    2300012: Escapamento_Cano
+    2300014: Guidon
+    2300016: Guidon_engine
+    2300018: Guidon_Mao
+    2300020: Motor
+    2300022: Motor_Spikes
+    2300024: Pedal
+    2300026: Pegador
+    2300028: Pneu
+    2300030: Tanque
+    2300032: Tanque_Entrada
+    3300000: Banco
+    3300002: Calha
+    3300004: Calha_Sides
+    3300006: Cylinder004
+    3300008: engine01_1_transform1
+    3300010: engine02_1_transform2
+    3300012: Escapamento_Cano
+    3300014: Guidon
+    3300016: Guidon_engine
+    3300018: Guidon_Mao
+    3300020: Motor
+    3300022: Motor_Spikes
+    3300024: Pedal
+    3300026: Pegador
+    3300028: Pneu
+    3300030: Tanque
+    3300032: Tanque_Entrada
+    4300000: Banco
+    4300002: Calha
+    4300004: Calha_Sides
+    4300006: Cylinder004
+    4300008: engine01_1_transform1
+    4300010: engine02_1_transform2
+    4300012: Escapamento_Cano
+    4300014: Guidon
+    4300016: Guidon_engine
+    4300018: Guidon_Mao
+    4300020: Motor
+    4300022: Motor_Spikes
+    4300024: Pedal
+    4300026: Pegador
+    4300028: Pneu
+    4300030: Tanque
+    4300032: Tanque_Entrada
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
