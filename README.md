@@ -1,4 +1,4 @@
-## Spirit-Rush - le neuro-virus 👾
+# Spirit-Rush - le neuro-virus 👾
 
 Nous sommes en 2177, l'humanité possède dorénavant accès à l'implant cérébral pour améliorer les performances cognitives, 
 l'homme ne fait ne plus qu'un avec la machine.
@@ -17,9 +17,10 @@ Le seul moyen de retrouver la conscience est de venir à bout du virus en termin
 
 ### L'image finale de la démo
 ![fin img](https://i.imgur.com/UHa693s.jpg)
+*RETURN EXIT_SUCCESS : code 0x 46 72 65 65 20 73 70 69 72 69 74*
 
 --------------------------------
-## Spirit-Rush - The neuro-virus 👾
+# Spirit-Rush - The neuro-virus 👾
 
 We are in 2177, humanity now has access to the brain implant to improve cognitive performance, 
 man becomes one with the machine.
@@ -38,6 +39,7 @@ The only way to regain consciousness is to overcome the virus by completing all 
 
 ### The final image of the demo
 ![fin_img](https://i.imgur.com/UHa693s.jpg)
+*RETURN EXIT_SUCCESS : code 0x 46 72 65 65 20 73 70 69 72 69 74*
 
 @Credit: reda-maizate, sebWNN, blluetomato.\
 \
