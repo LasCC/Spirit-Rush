@@ -41,6 +41,6 @@ The only way to regain consciousness is to overcome the virus by completing all 
 ![fin_img](https://i.imgur.com/UHa693s.jpg)
 *RETURN EXIT_SUCCESS : code 0x 46 72 65 65 20 73 70 69 72 69 74*
 
-@Credit: reda-maizate, sebWNN, blluetomato.\
-\
+@Credit: Réda MAIZATE, Sébastien WIENNE, Riadh BOUCHAHOUA.
+
 🏆 2ème du classement au hackathon 2019 🏆
